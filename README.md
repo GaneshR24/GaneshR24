@@ -19,7 +19,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,mysql,bootstrap,tailwind,materialui,aws,heroku,netlify,git,github,postman)](https://skillicons.dev)
+<p>
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,mysql,bootstrap,tailwind,materialui,aws,heroku,netlify,git,github,postman" />  </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshr24&show_icons=true&locale=en&layout=compact" alt="ganeshr24" /></p>
 
